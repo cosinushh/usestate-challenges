@@ -1,3 +1,4 @@
+import { useState } from "react";
 import ShoppingItem from "../ShoppingItem/ShoppingItem";
 
 function ShoppingCart() {
